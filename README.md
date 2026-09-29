@@ -42,19 +42,7 @@ Outside of school, I enjoy **typology** and **art**, and I'm a fan of **Code Gea
 
 <br>
 
-### 🍂 &nbsp;GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=asg-dion&show_icons=true&bg_color=FAF3E8&title_color=8B5E3C&text_color=6B4F3A&icon_color=A67C52&border_color=E3D0B8&border_radius=16&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asg-dion&layout=compact&bg_color=FAF3E8&title_color=8B5E3C&text_color=6B4F3A&border_color=E3D0B8&border_radius=16&langs_count=6" />
-
-</div>
-
-<br>
-
-### ☕ &nbsp;Connect
+### 🍂  &nbsp;Connect
 
 <div align="center">
 
