@@ -23,7 +23,7 @@ I enjoy **typology** and **art**, and I'm a fan of **Code Geass** and **Ace Atto
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/🍯_Email-8B5E3C?style=flat-square&labelColor=F5E6D3)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/🍯_Email-8B5E3C?style=flat-square&labelColor=F5E6D3)](mailto:biancamackenzie.liong@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🌾_LinkedIn-A67C52?style=flat-square&labelColor=F5E6D3)](https://linkedin.com/in/asg-dion)
 
 </div>
