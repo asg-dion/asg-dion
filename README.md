@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ken 🪴
+# Hi, I'm Ken 🐻
 
 Computer Science student at Mapúa University, aspiring data scientist 
 
