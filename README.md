@@ -14,12 +14,6 @@ Computer Science student at Mapúa University, aspiring data scientist 🪴
 
 </div>
 
-<br>
-
----
-
-<br>
-
 ### 🌱 &nbsp;About me
 
 I'm a Computer Science student at Mapúa University, aiming to become a data scientist. I'm currently learning data analysis, statistics, and machine learning.
