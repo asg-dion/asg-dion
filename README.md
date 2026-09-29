@@ -2,8 +2,6 @@
 
 # Hi, I'm Ken 🐻
 
-Computer Science student at Mapúa University, aspiring data scientist 
-
 <br>
 
 ![University](https://img.shields.io/badge/🎓_Mapúa_University-8B5E3C?style=flat-square&labelColor=F5E6D3)
