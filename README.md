@@ -6,7 +6,6 @@
 
 ![University](https://img.shields.io/badge/🎓_Mapúa_University-8B5E3C?style=flat-square&labelColor=F5E6D3)
 ![Course](https://img.shields.io/badge/📖_BS_Computer_Science-A67C52?style=flat-square&labelColor=F5E6D3)
-![Profile Views](https://komarev.com/ghpvc/?username=asg-dion&label=🐻+visitors&color=C8A882&style=flat-square&labelColor=F5E6D3)
 
 </div>
 
